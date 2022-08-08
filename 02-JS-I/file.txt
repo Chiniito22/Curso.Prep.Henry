@@ -1,0 +1,13 @@
+variable: Es un objeto dentro del sistema que me permite almacenar algo para 
+poder recuperarla y usarla luego cuando yo quiera
+
+strings:Es un palabra o cadena de palabras que usamos
+para determinar una expresion y nos devuelve un string
+
+Argumento return: Me retorna un valor dentro de la variable que escribi en un momento
+determinado
+
+Declaracion If: permite verificar, ejecutar y seguir adelante si algo que escribimos 
+dentro del codigo es verdad o mentira
+Booleanos True-False: Se utiliza para ejecutar un codigo si la sentencia es verdadera
+o si el codigo es mentira
