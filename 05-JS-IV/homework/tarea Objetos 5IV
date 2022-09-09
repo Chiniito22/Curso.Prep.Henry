@@ -1,0 +1,11 @@
+Objetos:Es un almacen donde guardamos muchos datos diferentes sobre
+un elemento en particular y estan relacionadas entre una clave y valor.
+Propiedades: Son todas las caracteristicas que les podemos asiganar a un
+objeto o funcion que creemos.
+Metodos: Llamamos metodos a las funciones que guardamos dentro de un objeto
+que hayamos creado.
+Bucle For-In: Es un bucle o circulo que creamos para poder acceder a los valores
+de nuestro objeto.
+Notación de puntos vs notación de corchetes: la diferencia entre ambas es con una
+accedemos puntualmente al elemento que buscamos,es literal (notacion x puntos)
+y con la otra no.

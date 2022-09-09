@@ -1,0 +1,5 @@
+Prototype: Es un comando que muestra que tiene una carpeta (mas grande) con comandos 
+y elementos que podemos usar para programar dentro del comando que estamos creando.
+Es un objeto dentro de otro objeto mas chico pero que tiene comandos que podemos usar.
+Constructors: Es una funcion que nos permite crear un objeto y llamarlo cuando nosotros
+queramos.Se llama fabrica de objetos!
