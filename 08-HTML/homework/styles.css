@@ -1,0 +1,22 @@
+h1{
+    color : burlywood;
+  }
+
+  img{
+    width: 400px;
+  }
+
+  #thirdDiv{
+    height:600;
+    width:500;
+    background-color:brown;
+    padding: 50px;
+    border: 5px solid black;
+  }
+
+  #spanid{
+    font: size 18px;
+    font-size: 18px;
+    margin: 50px;
+
+  }
